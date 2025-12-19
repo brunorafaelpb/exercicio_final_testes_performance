@@ -16,15 +16,6 @@ A API REST estará disponível em `http://localhost:3000`.
 npm run start-graphql
 ```
 
-A API GraphQL estará disponível em `http://localhost:4000/graphql`.
-
-## Documentação
-
-Acesse a documentação em:
-```
-http://localhost:3000/api-docs
-```
-
 # Testes de Performance
 
 O teste implementa conceitos de teste de performance utilizando K6 para avaliar a API.
