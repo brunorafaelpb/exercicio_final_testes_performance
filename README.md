@@ -8,6 +8,15 @@ Esta API permite o registro e login de usuários, além do gerenciamento de prod
 npm start
 ```
 
+A API REST estará disponível em `http://localhost:3000`.
+
+## Documentação
+
+Acesse a documentação em:
+```
+http://localhost:3000/api-docs
+```
+
 # Testes de Performance
 
 O teste implementa conceitos de teste de performance utilizando K6 para avaliar a API.
