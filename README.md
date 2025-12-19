@@ -8,14 +8,6 @@ Esta API permite o registro e login de usuários, além do gerenciamento de prod
 npm start
 ```
 
-A API REST estará disponível em `http://localhost:3000`.
-
-## Executando a API GraphQL
-
-```bash
-npm run start-graphql
-```
-
 # Testes de Performance
 
 O teste implementa conceitos de teste de performance utilizando K6 para avaliar a API.
